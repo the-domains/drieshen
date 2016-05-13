@@ -1,6 +1,6 @@
 name: Drieshen
 favicon: null
-layout_spectrum: 0.8370490968227386
+layout_spectrum: 0.0939
 typography_spectrum: 0.8538883980363607
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.719774397322908
+  brandStrength: 0.8125
   lightness: 0.7301860032603145
   saturation: 0.32237497880123556
-  rhythmicContrast: 0.5759231064002961
+  rhythmicContrast: 0.75
 purpose: []
